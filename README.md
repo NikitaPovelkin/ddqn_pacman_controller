@@ -1,1 +1,1 @@
-# ddqn_pacman_controller
+# Double DQN controller for playing Pacman
